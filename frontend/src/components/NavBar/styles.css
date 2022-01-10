@@ -26,9 +26,10 @@ header {
 .movie-contact-link {
     margin: 0 0 0 10px;
     font-size: 12px;
-    color: #ffff;
 }
 
-a.link{
+
+a.link {
     text-decoration: none;
+    color: unset;
 }
