@@ -3,4 +3,4 @@ Project created to rate some movies from the catalog.
 
 Link: https://astuno-moviecatalog.netlify.app/
 
-Just wait for 5 minutes(the API will load)!
+Just wait for 5 minutes(the API will load)
